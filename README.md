@@ -1,28 +1,29 @@
-# 💓 Pulse Social
+# 🌐 Social Media App
 
-**Connect. Create. Inspire.**
+**Connect. Share. Inspire.**
 
-Pulse is a high-fidelity social networking application built with Flutter. It features a modern glassmorphic design system, vibrant background gradients, and a focus on high-performance media delivery and user engagement.
+Social Media App is a high-fidelity social networking application built with Flutter. It features a modern glassmorphic UI, rich media feeds, story bubbles, and a highly interactive user experience designed for professional networking and community building.
 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/feed.png" width="30%" alt="Pulse Feed" />
-  <img src="screenshots/story.png" width="30%" alt="Glassmorphic Story" />
-  <img src="screenshots/profile.png" width="30%" alt="Creator Profile" />
+  <img src="screenshots/overview.png" width="22%" alt="Social Home" />
+  <img src="screenshots/feed.png" width="22%" alt="Media Feed" />
+  <img src="screenshots/story.png" width="22%" alt="Story View" />
+  <img src="screenshots/profile.png" width="22%" alt="User Profile" />
 </p>
 
 ## ✨ Features
 
-- 🧊 **Glassmorphic UI** — Stunning semi-transparent components with BackdropFilter blur effects.
-- 🎨 **Dynamic Gradients** — Vibrant, evolving background gradients that give the app a "living" feel.
-- 📸 **Rich Media Feed** — Optimized feed for high-resolution images and creator content.
-- 💫 **Interactive Stories** — Smooth, full-screen story experiences with glassmorphic overlays.
-- 👤 **Creator Profiles** — Polished profile grids and editorial-style bio sections.
+- 🧊 **Glassmorphic UI** — A stunning modern interface featuring frosted glass effects and vibrant gradients.
+- 📸 **Rich Media Feed** — High-performance scrolling feed with optimized image and video delivery.
+- 🫧 **Story System** — Intuitive, location-aware story bubbles for real-time community engagement.
+- 👤 **Dynamic Profiles** — Comprehensive user profiles with integrated media galleries and social stats.
+- ⚡ **Interactive Components** — Fluid micro-interactions for likes, comments, and social sharing.
 
 ## 🛠️ Tech Stack
 
 - **Framework**: Flutter
 - **State Management**: Riverpod
-- **Icons**: Lucide Icons
-- **UI Design**: Modern Glassmorphism
+- **Architecture**: Modular Clean Architecture
+- **UI Components**: Custom Glassmorphism
